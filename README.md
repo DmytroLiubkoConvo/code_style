@@ -24,7 +24,7 @@ Here are folder types that would be part of feature folder.
 |-- cubits/
 |-- services/
 |-- repositories/
-|-- data_dsources/
+|-- data_sources/
 |-- business_objects/
 |-- dtos/
 |-- ui/
