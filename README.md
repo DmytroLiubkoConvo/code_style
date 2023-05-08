@@ -15,8 +15,9 @@ Meaning at the root level you have folders defining features.
 For example:
 ```
 |-- common/
-|-- authentication/
-|-- settings/
+|-- features/
+|---- authentication/
+|---- settings/
 ```
 Inside of each feature folder you have folders defined by types.
 Here are folder types that would be part of feature folder.
