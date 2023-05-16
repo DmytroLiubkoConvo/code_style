@@ -22,14 +22,21 @@ For example:
 Inside of each feature folder you have folders defined by types.
 Here are folder types that would be part of feature folder.
 ```
-|-- cubits/
-|-- services/
-|-- repositories/
-|-- data_sources/
-|-- business_objects/
-|-- dtos/
-|-- ui/
-|-- exceptions/
+|-- presentation/
+|---- screens/
+|---- widgets/
+|---- controllers/
+|------ cubits/
+
+|-- application/
+
+|-- domain/
+
+|-- data/
+|---- repositories/
+|---- sources/
+|---- dtos/
+
 ```
 
 If there's more than one file related to a single file, you can group them in a folder, for example generated code for a class in a file.
